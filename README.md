@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Cosmos SDK </h1> 
+  <h1> Cosmos SDK (Frenzy) </h1> 
 </div> 
 
 ![banner](https://github.com/cosmos/cosmos-sdk-docs/blob/main/static/img/banner.jpg)
