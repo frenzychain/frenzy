@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> Cosmos SDK </h1>
-</div>
+  <h1> Cosmos SDK </h1> 
+</div> 
 
 ![banner](https://github.com/cosmos/cosmos-sdk-docs/blob/main/static/img/banner.jpg)
 
